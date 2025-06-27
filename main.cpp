@@ -1,4 +1,3 @@
-//SARE EKEN 22100011016
 
 #include "mainwindow.h"
 
